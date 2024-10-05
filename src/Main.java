@@ -4,5 +4,6 @@ public class Main {
 		myLibrary.addBook("Harry Potter");
 		myLibrary.addBook("Lord of the Rings");
 		myLibrary.listBooks();
+		System.out.println("Reached at end of the library");
 	}
 }
